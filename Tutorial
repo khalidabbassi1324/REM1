@@ -2,5 +2,5 @@
 1.install node.js
 2.using MySQL create a database
 3.inside backend/server.js change the database credentials.
-4. type npm install react-scripts then npm install web-vitals lastly npm start on CMD while it is operating inside frontend folder.
-5. type node.js server.js inside backend folder while having CMD also operating inside the folder also.
+4. type npm install react-scripts then npm install web-vitals and lastly npm start on CMD while it is powered inside frontend folder.
+5. type node.js server.js inside backend folder while having CMD also powered inside the folder .
